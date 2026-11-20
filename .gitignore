@@ -1,0 +1,15 @@
+# Project place file
+/BrainrotBay.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Local Make.fun kit and private recorder state
+/.makefun-tools/
+
+# Local research and verification scratch remain on disk, outside the entry.
+/RESEARCH/
+/temp_verify.txt
